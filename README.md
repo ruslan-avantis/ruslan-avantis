@@ -6,8 +6,8 @@
 - 2+ years of experience in Node.js, Express.js , async, await
 - 3+ years of experience in PHP (Slim Framework, Zend Framework)
 - 🏆 Chat bots (Telegram, Viber, Facebook Messenger)
-- API, RESTful API (like)
-- Marketplace, OMS, CRM, ERP
+- ❤️ API, RESTful API
+- ❤️ Marketplace, OMS, CRM, ERP
 - MVC
 - JSON, XML, CSV
 - HTML/CSS, Bootstrap, Twig, Pug
