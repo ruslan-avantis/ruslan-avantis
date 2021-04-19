@@ -1,12 +1,10 @@
 ## Hi, I am Ruslan Avantis 👋
+❤️ I prefer Express.js on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
 
-<!--
-**ruslan-avantis/ruslan-avantis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 ### My stack:
 - 2+ years of experience in Node.js, Express.js , async, await
 - 3+ years of experience in PHP (Slim Framework, Zend Framework)
-- Chat bots (Telegram, Viber, Facebook Messenger)
+- 🏆 Chat bots (Telegram, Viber, Facebook Messenger)
 - API, RESTful API (like)
 - Marketplace, OMS, CRM, ERP
 - MVC
@@ -17,15 +15,8 @@
 - LocalStorage, SessionStorage
 
 ### About me:
+- ✨ I study React and English
 - 😄 Fun fact: I'm back to engineering after 10 years of business career
 - 🔭 I’m looking to collaborate on commercial projects and startups
 - 🌱 My profile on [`Upwork`](https://www.upwork.com/freelancers/~01ebb060bf566e8e85)
-<!--
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
 - ⚡ I like to solve problems on the [`app.codesignal.com`](https://app.codesignal.com/profile/joomimart_k)
-
