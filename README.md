@@ -1,7 +1,7 @@
 ## Hi, I am Ruslan Avantis 👋
 ❤️ I prefer Express.js on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
 
-✨ I study React and English
+✨ I study: English, React, NestJS
 
 ### My stack:
 - 2+ years of experience in Node.js, Express.js , async, await
