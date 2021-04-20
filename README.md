@@ -8,7 +8,7 @@
 - 3+ years of experience in PHP (Slim Framework, Zend Framework)
 - 🏆 Chat bots (Telegram, Viber, Facebook Messenger)
 - ❤️ API, RESTful API
-- ❤️ Marketplace, OMS, CRM, ERP
+- ❤️ Marketplace, OMS, CRM, ERP, Online stores
 - MVC
 - JSON, XML, CSV
 - HTML/CSS, Bootstrap, Twig, Pug
