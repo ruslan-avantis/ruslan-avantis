@@ -9,7 +9,7 @@
 - 🏆 Chat bots (Telegram, Viber, Facebook Messenger)
 - ❤️ API, RESTful API
 - ❤️ Marketplace, OMS, CRM, ERP, Online stores
-- Firebase (database, hosting, functions)
+- Google Cloud + Google Firebase (database, hosting, functions)
 - MVC, SOLID
 - JSON, XML, CSV
 - HTML/CSS, Bootstrap, Twig, Pug
