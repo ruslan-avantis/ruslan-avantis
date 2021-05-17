@@ -9,10 +9,11 @@
 - 🏆 Chat bots (Telegram, Viber, Facebook Messenger)
 - ❤️ API, RESTful API
 - ❤️ Marketplace, OMS, CRM, ERP, Online stores
-- MVC
+- Firebase (database, hosting, functions)
+- MVC, SOLID
 - JSON, XML, CSV
 - HTML/CSS, Bootstrap, Twig, Pug
-- git, docker
+- git, docker, CI/CD
 - SQL, MySQL, NoSQL, Redis, Predis, Memcached, Elasticsearch, PostgreSQL, MongoDB ...
 - LocalStorage, SessionStorage
 
