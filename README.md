@@ -20,5 +20,4 @@
 ### About me:
 - 😄 Fun fact: I'm back to engineering after 10 years of business career
 - 🔭 I’m looking to collaborate on commercial projects and startups
-- 🌱 My profile on [`Upwork`](https://www.upwork.com/freelancers/~01ebb060bf566e8e85)
 - ⚡ I like to solve problems on the [`app.codesignal.com`](https://app.codesignal.com/profile/joomimart_k)
