@@ -1,6 +1,6 @@
 ## Hi, I am Ruslan Avantis 👋
-😄 More than 6 years of development experience
-❤️ I prefer Express.js on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
+- 😄 More than 6 years of development experience
+- ❤️ I prefer Express.js on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
 
 ✨ I study: English, React, NestJS
 
