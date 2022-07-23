@@ -10,7 +10,7 @@
 - 🏆 Chat bots (Telegram, Viber, Facebook Messenger)
 - ❤️ API, RESTful API
 - ❤️ Marketplace, OMS, CRM, ERP, Online stores
-- AWS Lambda
+- AWS, Lambdas, Big Data
 - Google Cloud + Google Firebase (database, hosting, functions)
 - MVC, SOLID
 - JSON, XML, CSV
